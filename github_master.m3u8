@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="hin",NAME="Hindi",DEFAULT=YES,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/yemini400/ffb097d360777579/refs/heads/master/audio_0/github_playlist.m3u8?_cb=1792792405"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="tam",NAME="Tamil",DEFAULT=NO,AUTOSELECT=NO,URI="https://raw.githubusercontent.com/yemini400/ffb097d360777579/refs/heads/master/audio_1/github_playlist.m3u8?_cb=1792792405"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="tel",NAME="Telugu",DEFAULT=NO,AUTOSELECT=NO,URI="https://raw.githubusercontent.com/yemini400/ffb097d360777579/refs/heads/master/audio_2/github_playlist.m3u8?_cb=1792792405"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="mal",NAME="Malayalam",DEFAULT=NO,AUTOSELECT=NO,URI="https://raw.githubusercontent.com/yemini400/ffb097d360777579/refs/heads/master/audio_3/github_playlist.m3u8?_cb=1792792405"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="kan",NAME="Kannada",DEFAULT=NO,AUTOSELECT=NO,URI="https://raw.githubusercontent.com/yemini400/ffb097d360777579/refs/heads/master/audio_4/github_playlist.m3u8?_cb=1792792405"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="eng",NAME="English",DEFAULT=NO,AUTOSELECT=NO,URI="https://raw.githubusercontent.com/yemini400/ffb097d360777579/refs/heads/master/audio_5/github_playlist.m3u8?_cb=1792792405"
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720,AUDIO="audio-group"
+https://raw.githubusercontent.com/yemini400/ffb097d360777579/refs/heads/master/720p/github_playlist_720p.m3u8?_cb=1792792405
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080,AUDIO="audio-group"
+https://raw.githubusercontent.com/yemini400/ffb097d360777579/refs/heads/master/1080p/github_playlist_1080p.m3u8?_cb=1792792405

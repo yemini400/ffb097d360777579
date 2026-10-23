@@ -1,0 +1,5 @@
+Video URL:
+https://yemini400.github.io/player/?list=https://raw.githubusercontent.com/yemini400/ffb097d360777579/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://yemini400.github.io/player/?list=https://raw.githubusercontent.com/yemini400/ffb097d360777579/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
